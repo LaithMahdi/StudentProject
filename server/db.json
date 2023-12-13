@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "laith",
+      "email": "laith@gmail.com",
+      "classe": "DSI 32"
+    },
+    {
+      "id": 2,
+      "name": "laith2",
+      "email": "Laith2@gmail.com",
+      "classe": "DSI 33"
+    },
+    {
+      "id": 3,
+      "name": "laith 3",
+      "email": "laiht3@gmail.com",
+      "classe": "DSI 33"
+    },
+    {
+      "id": 4,
+      "name": "hhh",
+      "email": "hhh",
+      "classe": "DSI 31"
+    },
+    {
+      "id": 5,
+      "name": "hhhéééé",
+      "email": "hhhhhhhhhh",
+      "classe": "DSI 34"
+    }
+  ]
+}
